@@ -1,6 +1,6 @@
 ﻿#include <iostream>
 #include <string>
-#include "Huffman.h"
+#include "Huff.h"
 
 using namespace std;
 
